@@ -17,7 +17,7 @@ int main(){
         printf("A área do quadrado é igual a %d", area);
     }
     else{
-        printf("Programa encerrado");
+        printf("Valor Inválido. Programa encerrado");
     }
 
     return 0;
