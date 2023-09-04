@@ -10,5 +10,4 @@ int main(){
     printf("O perimetro do quadrado vale %d", perimetro);
 
     return 0;
-
 }
